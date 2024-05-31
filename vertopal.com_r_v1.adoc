@@ -13,6 +13,7 @@ image:logo.png[logo-iut,width=256]
 === Membres :
 
 * ARGUELLES Alexian (Chef de projet)
+<h1>ARGUELLES Alexian (Chef de projet)</h1>
 * SHARIFI Daner
 * CHAUVIERE Romy
 
