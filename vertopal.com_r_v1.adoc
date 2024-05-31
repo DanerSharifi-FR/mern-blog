@@ -1,0 +1,40 @@
+= Document
+:lang: fr
+
+image:logo.png[logo-iut,width=256]
+
+== Cahier De Recette - DailyBankApp
+
+'''''
+
+=== Entreprise : DailyBank
+
+=== Equipe : 3B1
+
+=== Membres :
+
+* ARGUELLES Alexian (Chef de projet)
+* SHARIFI Daner
+* CHAUVIERE Romy
+
+=== Année univérsitaire 2023-2024
+
+'''''
+
+== Sommaire
+
+* link:#introduction[I. Introduction]
+** link:#objet[1. Objet]
+* link:#preRequis[II. Pre-Requis]
+** link:#elTester[1. Éléments à tester]
+** link:#envTest[2. Environnement de test]
+** link:#contraintes[3. Contraintes]
+* link:#casTest[III. Cas de test]
+** link:#foncGuich[1. Fonctionnalités des guichetiers]
+*** link:#foncGuich1[1.1 Gestion des clients]
+*** link:#foncGuich2[1.2 Gestion des comptes bancaires]
+*** link:#foncGuich3[1.3 Gestion des opérations]
+** link:#foncChefAg[2. Fonctionnalités des chefs d’agence]
+*** link:#foncChefAg1[2.1 Gestion des clients]
+*** link:#foncChefAg2[2.2 Gestion des employés]
+*** link:#foncChefAg3[2.3 Gestion des opérations]
