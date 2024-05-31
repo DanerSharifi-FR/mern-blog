@@ -1,4 +1,3 @@
-= Document
 :lang: fr
 
 image:logo.png[logo-iut,width=256]
